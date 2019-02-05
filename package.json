@@ -1,0 +1,23 @@
+{
+  "name": "comingsoon_website_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoliskdeveloper/ComingSoonWebsiteTemplate.git"
+  },
+  "author": "yosuaaudi",
+  "license": "MIT",
+  "homepage": "https://yoliskdeveloper.github.io/hitakepricomingsoon",
+  "bugs": {
+    "url": "https://github.com/yoliskdeveloper/ComingSoonWebsiteTemplate/issues"
+  },
+  "homepage": "https://github.com/yoliskdeveloper/ComingSoonWebsiteTemplate#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
