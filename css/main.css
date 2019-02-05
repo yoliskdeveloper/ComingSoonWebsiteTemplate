@@ -17,7 +17,6 @@ html, body {
     background-image: url('../img/pageBg.jpeg');
     background-size: cover;
     background-position: center;
-    /* height:70vh;  */
 }
 
 .landing img {
@@ -126,7 +125,8 @@ html, body {
 
 }
 
-/* @media(max-height: 667px) {
+/* OPTIONAL MEDIA QUERY 
+@media(max-height: 667px) {
     img {
         width: 20%;
     }
